@@ -1,4 +1,5 @@
 def square_array(array)
+<<<<<<< HEAD
   counter = 0 
   new_array = []
   while counter < array.length do 
@@ -8,3 +9,7 @@ def square_array(array)
   return new_array
 end
 
+=======
+  
+end
+>>>>>>> 1d9eb7e6d74e4563131e7aed359c38ffab4257f2
